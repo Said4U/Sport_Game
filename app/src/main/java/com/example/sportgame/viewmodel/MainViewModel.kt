@@ -19,7 +19,7 @@ class MainViewModel : ViewModel() {
     private val db = Firebase.firestore
 
     fun startTimer(){
-        object : CountDownTimer(2000, 1000) {
+        object : CountDownTimer(5000, 1000) {
 
             override fun onTick(millisUntilFinished: Long) {
                 _seconds.postValue(millisUntilFinished / 1000)

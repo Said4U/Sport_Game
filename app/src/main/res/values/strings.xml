@@ -10,7 +10,7 @@
     <string name="loseAddText">Время попробовать еще раз!</string>
     <string name="money">монет</string>
     <string name="result">Счёт</string>
-    <string name="toResult">Счёт</string>
+    <string name="toResult">Далее</string>
     <string name="getPresent">Получить подарок</string>
     <string name="toMain">На главную</string>
     <string name="play">Играть</string>
@@ -20,6 +20,6 @@
     <string name="getResult">Узнать результат</string>
     <string name="close">Закрыть</string>
     <string name="needStake">Необходимо сделать ставку</string>
-    <string name="lessStake">Необходимо сделать ставку</string>
+    <string name="lessStake">Недостаточно средств для этой ставки</string>
     <string name="team">Необходимо выбрать команду</string>
 </resources>
