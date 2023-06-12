@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658468373695",
+    "project_id": "sportgame-dc60e",
+    "storage_bucket": "sportgame-dc60e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658468373695:android:2aedd27b1d261c08c2720a",
+        "android_client_info": {
+          "package_name": "com.example.sportgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658468373695-bvfmgclu68sab7duc0cj4737dj7ms3m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADq5bt0O9YpTUEjqmVD0PojAaFHGODEeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658468373695-bvfmgclu68sab7duc0cj4737dj7ms3m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
